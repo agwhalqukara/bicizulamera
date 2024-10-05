@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bicizulamera.pages.dev/sitemap.xml
